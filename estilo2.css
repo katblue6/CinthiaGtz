@@ -16,7 +16,7 @@ nav{
     display: flex;
     position: absolute;
     z-index: 1;
-    background-color: black;
+    background-color: none;
 }
 
 nav a:hover{
@@ -45,7 +45,7 @@ header{
     background-image: url(imagenes/neon1.jpg);
     background-size: contain;
     background-position: center;
-    position: relative;
+    position: relative; 
 }
 
 
