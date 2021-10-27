@@ -16,7 +16,7 @@ nav{
     display: flex;
     position: absolute;
     z-index: 1;
-    background-color: black;
+    background-color: none;
 }
 
 nav a:hover{
